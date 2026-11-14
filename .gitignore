@@ -1,0 +1,41 @@
+
+# Compiled Java files
+*.class
+
+# Java build directories
+bin/
+out/
+build/
+target/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local data and backups (if persistence is added later)
+*.db
+*.sqlite
+*.sqlite3
+*.bak
